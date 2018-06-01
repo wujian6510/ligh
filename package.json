@@ -1,7 +1,7 @@
 {
-  "name": "ligh",
-  "version": "2.0.0",
-  "description": "lrw",
+  "name": "ligher",
+  "version": "1.0.0",
+  "description": "ligher",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
